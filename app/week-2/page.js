@@ -1,10 +1,10 @@
-import Title from "./title";
+import StudentInfo from "./student-info";
 
 export default function Page() {
-  return (  
-  <main>
-    <Title />
-        <h1>this is week-2 assignment</h1>
-  </main>
-  );
-}
+    return (
+      <main>
+        <h1>Welcome to Week-2</h1>
+        <StudentInfo />
+      </main>
+    );
+  }
