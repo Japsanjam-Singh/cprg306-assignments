@@ -14,6 +14,9 @@ export default function Page() {
         <p className="text-lg text-gray-700">
           Link to Week-4: <Link href="week-4" className="text-blue-500 hover:underline">Week-4</Link>
         </p>
+        <p className="text-lg text-gray-700">
+          Link to Week-5: <Link href="week-5" className="text-blue-500 hover:underline">Week-5</Link>
+        </p>
       </div>
     </div>
   )
